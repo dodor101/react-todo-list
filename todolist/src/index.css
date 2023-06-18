@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* style the App className */
+
+.App {
+  text-align: center;
+  margin-top: 2%;
+
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form input,
+button {
+  width: 30%;
+  margin-top: 5px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  display: flex;
+  justify-content: center;
+  background-color: blanchedalmond;
+  align-items: center;
+  margin-top: 5px;
+  gap: 20px;
+  flex-direction: column;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+li {
+  list-style: none;
+  background-color: aqua;
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-basis: 20%;
+}
+
+label {
+  font-size: 16px;
+}
+
+.delete {
+  width: 10px;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}

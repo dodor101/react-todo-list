@@ -1,0 +1,20 @@
+{
+  "name": "react-todo-list",
+  "version": "1.0.0",
+  "description": "This a todo list built using react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodor101/react-todo-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dodor101/react-todo-list/issues"
+  },
+  "homepage": "https://github.com/dodor101/react-todo-list#readme"
+}
